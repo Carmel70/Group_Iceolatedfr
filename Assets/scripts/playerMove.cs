@@ -10,14 +10,19 @@ public class playerMove : MonoBehaviour
     float vertical;
     public float speed = 3.0f;
     Vector2 lookDirection = new Vector2(1, 0);
+    public GameObject Cat;
 
     Animator animator;
+    Animator animator1;
     // Start is called before the first frame update
     void Start()
     {
         rigidbody2d = GetComponent<Rigidbody2D>();
         //timer = changeTime;
         animator = GetComponent<Animator>();
+        animator1 = Cat.GetComponent<Animator>();
+        
+
     }
 
     // Update is called once per frame
@@ -37,7 +42,12 @@ public class playerMove : MonoBehaviour
         animator.SetFloat("Look Y", lookDirection.y);
         animator.SetFloat("Speed", move.magnitude);
 
-        
+        if (Cat != null)
+        {
+            animator1.SetFloat("Cat Look X", lookDirection.x);
+            animator1.SetFloat("Cat Look Y", lookDirection.y);
+            animator1.SetFloat("Cat Speed", move.magnitude);
+        }
     }
 
     void FixedUpdate()

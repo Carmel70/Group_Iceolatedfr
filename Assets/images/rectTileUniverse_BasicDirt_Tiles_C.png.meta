@@ -1,0 +1,4824 @@
+fileFormatVersion: 2
+guid: 9e2ef8e4b5430404098687f3624db23f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6947924089691550078
+    second: rectTileUniverse_BasicDirt_Tiles_C_0
+  - first:
+      213: 4549158655577222951
+    second: rectTileUniverse_BasicDirt_Tiles_C_1
+  - first:
+      213: -382341696421433944
+    second: rectTileUniverse_BasicDirt_Tiles_C_2
+  - first:
+      213: 3840077397524799809
+    second: rectTileUniverse_BasicDirt_Tiles_C_3
+  - first:
+      213: 2191660620603987319
+    second: rectTileUniverse_BasicDirt_Tiles_C_4
+  - first:
+      213: -5131403773493197728
+    second: rectTileUniverse_BasicDirt_Tiles_C_5
+  - first:
+      213: -2195375254679749010
+    second: rectTileUniverse_BasicDirt_Tiles_C_6
+  - first:
+      213: 3131194594947038635
+    second: rectTileUniverse_BasicDirt_Tiles_C_7
+  - first:
+      213: -7837045365414071879
+    second: rectTileUniverse_BasicDirt_Tiles_C_8
+  - first:
+      213: 3049630756179485200
+    second: rectTileUniverse_BasicDirt_Tiles_C_9
+  - first:
+      213: -8430787155397536049
+    second: rectTileUniverse_BasicDirt_Tiles_C_10
+  - first:
+      213: -5467789838368567561
+    second: rectTileUniverse_BasicDirt_Tiles_C_11
+  - first:
+      213: 4760257162925428512
+    second: rectTileUniverse_BasicDirt_Tiles_C_12
+  - first:
+      213: -2291208923221043583
+    second: rectTileUniverse_BasicDirt_Tiles_C_13
+  - first:
+      213: 9212346585238935278
+    second: rectTileUniverse_BasicDirt_Tiles_C_14
+  - first:
+      213: -8026542573760160986
+    second: rectTileUniverse_BasicDirt_Tiles_C_15
+  - first:
+      213: -7527981236165662010
+    second: rectTileUniverse_BasicDirt_Tiles_C_16
+  - first:
+      213: -3315695477964972524
+    second: rectTileUniverse_BasicDirt_Tiles_C_17
+  - first:
+      213: -8474958534217363129
+    second: rectTileUniverse_BasicDirt_Tiles_C_18
+  - first:
+      213: -130178414403371592
+    second: rectTileUniverse_BasicDirt_Tiles_C_19
+  - first:
+      213: -663773183071693980
+    second: rectTileUniverse_BasicDirt_Tiles_C_20
+  - first:
+      213: -8858785253109672771
+    second: rectTileUniverse_BasicDirt_Tiles_C_21
+  - first:
+      213: 2335742195680554493
+    second: rectTileUniverse_BasicDirt_Tiles_C_22
+  - first:
+      213: -8393600966195806613
+    second: rectTileUniverse_BasicDirt_Tiles_C_23
+  - first:
+      213: 3133684300101105567
+    second: rectTileUniverse_BasicDirt_Tiles_C_24
+  - first:
+      213: -2616536291435802539
+    second: rectTileUniverse_BasicDirt_Tiles_C_25
+  - first:
+      213: -3652901168810385397
+    second: rectTileUniverse_BasicDirt_Tiles_C_26
+  - first:
+      213: -7606908622230917979
+    second: rectTileUniverse_BasicDirt_Tiles_C_27
+  - first:
+      213: -5339400575771365529
+    second: rectTileUniverse_BasicDirt_Tiles_C_28
+  - first:
+      213: 7845055256647970658
+    second: rectTileUniverse_BasicDirt_Tiles_C_29
+  - first:
+      213: 169119360844415757
+    second: rectTileUniverse_BasicDirt_Tiles_C_30
+  - first:
+      213: -140298880081002243
+    second: rectTileUniverse_BasicDirt_Tiles_C_31
+  - first:
+      213: 7592075072442914773
+    second: rectTileUniverse_BasicDirt_Tiles_C_32
+  - first:
+      213: 6150269604488144068
+    second: rectTileUniverse_BasicDirt_Tiles_C_33
+  - first:
+      213: -5370382184929411496
+    second: rectTileUniverse_BasicDirt_Tiles_C_34
+  - first:
+      213: -8426106557336628622
+    second: rectTileUniverse_BasicDirt_Tiles_C_35
+  - first:
+      213: 5888739613748304403
+    second: rectTileUniverse_BasicDirt_Tiles_C_36
+  - first:
+      213: -2725990387423287622
+    second: rectTileUniverse_BasicDirt_Tiles_C_37
+  - first:
+      213: -2430754428866646822
+    second: rectTileUniverse_BasicDirt_Tiles_C_38
+  - first:
+      213: 2401331737603852695
+    second: rectTileUniverse_BasicDirt_Tiles_C_39
+  - first:
+      213: -1722020958190193022
+    second: rectTileUniverse_BasicDirt_Tiles_C_40
+  - first:
+      213: -4433403662561360713
+    second: rectTileUniverse_BasicDirt_Tiles_C_41
+  - first:
+      213: -3095487105449517323
+    second: rectTileUniverse_BasicDirt_Tiles_C_42
+  - first:
+      213: 1846605074096756960
+    second: rectTileUniverse_BasicDirt_Tiles_C_43
+  - first:
+      213: -2648171991738328135
+    second: rectTileUniverse_BasicDirt_Tiles_C_44
+  - first:
+      213: 8191826354622598491
+    second: rectTileUniverse_BasicDirt_Tiles_C_45
+  - first:
+      213: -1624197849875980854
+    second: rectTileUniverse_BasicDirt_Tiles_C_46
+  - first:
+      213: -6180376732239537005
+    second: rectTileUniverse_BasicDirt_Tiles_C_47
+  - first:
+      213: 2178028067621136758
+    second: rectTileUniverse_BasicDirt_Tiles_C_48
+  - first:
+      213: 6045642777957791153
+    second: rectTileUniverse_BasicDirt_Tiles_C_49
+  - first:
+      213: -5460323799454719059
+    second: rectTileUniverse_BasicDirt_Tiles_C_50
+  - first:
+      213: -6526240658923270971
+    second: rectTileUniverse_BasicDirt_Tiles_C_51
+  - first:
+      213: 3396200616366966292
+    second: rectTileUniverse_BasicDirt_Tiles_C_52
+  - first:
+      213: -6118301886567383263
+    second: rectTileUniverse_BasicDirt_Tiles_C_53
+  - first:
+      213: -602247081071033483
+    second: rectTileUniverse_BasicDirt_Tiles_C_54
+  - first:
+      213: 6412209220621139488
+    second: rectTileUniverse_BasicDirt_Tiles_C_55
+  - first:
+      213: -2219715298424083724
+    second: rectTileUniverse_BasicDirt_Tiles_C_56
+  - first:
+      213: -2865740681020044588
+    second: rectTileUniverse_BasicDirt_Tiles_C_57
+  - first:
+      213: -109534758093546183
+    second: rectTileUniverse_BasicDirt_Tiles_C_58
+  - first:
+      213: -1893102465052315174
+    second: rectTileUniverse_BasicDirt_Tiles_C_59
+  - first:
+      213: -652053671821569789
+    second: rectTileUniverse_BasicDirt_Tiles_C_60
+  - first:
+      213: -775359561011561377
+    second: rectTileUniverse_BasicDirt_Tiles_C_61
+  - first:
+      213: -366271018973374038
+    second: rectTileUniverse_BasicDirt_Tiles_C_62
+  - first:
+      213: 4219746519751725761
+    second: rectTileUniverse_BasicDirt_Tiles_C_63
+  - first:
+      213: -7797461537176429699
+    second: rectTileUniverse_BasicDirt_Tiles_C_64
+  - first:
+      213: -9041267028587371399
+    second: rectTileUniverse_BasicDirt_Tiles_C_65
+  - first:
+      213: 3270913063888025497
+    second: rectTileUniverse_BasicDirt_Tiles_C_66
+  - first:
+      213: 8187053803506120506
+    second: rectTileUniverse_BasicDirt_Tiles_C_67
+  - first:
+      213: -3926865363552540559
+    second: rectTileUniverse_BasicDirt_Tiles_C_68
+  - first:
+      213: 6924162815291715133
+    second: rectTileUniverse_BasicDirt_Tiles_C_69
+  - first:
+      213: 3764134624612987300
+    second: rectTileUniverse_BasicDirt_Tiles_C_70
+  - first:
+      213: -3692758574004880997
+    second: rectTileUniverse_BasicDirt_Tiles_C_71
+  - first:
+      213: -6403343368932156115
+    second: rectTileUniverse_BasicDirt_Tiles_C_72
+  - first:
+      213: -1066887197064884914
+    second: rectTileUniverse_BasicDirt_Tiles_C_73
+  - first:
+      213: 2408396971443014634
+    second: rectTileUniverse_BasicDirt_Tiles_C_74
+  - first:
+      213: -1219533664005263354
+    second: rectTileUniverse_BasicDirt_Tiles_C_75
+  - first:
+      213: 2625401255305533080
+    second: rectTileUniverse_BasicDirt_Tiles_C_76
+  - first:
+      213: 1234791682458662845
+    second: rectTileUniverse_BasicDirt_Tiles_C_77
+  - first:
+      213: 6523686508741450175
+    second: rectTileUniverse_BasicDirt_Tiles_C_78
+  - first:
+      213: 1979536452430353602
+    second: rectTileUniverse_BasicDirt_Tiles_C_79
+  - first:
+      213: -8344094506240664796
+    second: rectTileUniverse_BasicDirt_Tiles_C_80
+  - first:
+      213: -4035950595541800090
+    second: rectTileUniverse_BasicDirt_Tiles_C_81
+  - first:
+      213: -5581079190988300126
+    second: rectTileUniverse_BasicDirt_Tiles_C_82
+  - first:
+      213: 8867741809885406074
+    second: rectTileUniverse_BasicDirt_Tiles_C_83
+  - first:
+      213: 2728316088738362059
+    second: rectTileUniverse_BasicDirt_Tiles_C_84
+  - first:
+      213: -4558816906676378224
+    second: rectTileUniverse_BasicDirt_Tiles_C_85
+  - first:
+      213: 364391492047352573
+    second: rectTileUniverse_BasicDirt_Tiles_C_86
+  - first:
+      213: 5153446935685114935
+    second: rectTileUniverse_BasicDirt_Tiles_C_87
+  - first:
+      213: -3869691398473558039
+    second: rectTileUniverse_BasicDirt_Tiles_C_88
+  - first:
+      213: 8264319668397430569
+    second: rectTileUniverse_BasicDirt_Tiles_C_89
+  - first:
+      213: 5172336549805343593
+    second: rectTileUniverse_BasicDirt_Tiles_C_90
+  - first:
+      213: -6140923361422841477
+    second: rectTileUniverse_BasicDirt_Tiles_C_91
+  - first:
+      213: 8593782390029025336
+    second: rectTileUniverse_BasicDirt_Tiles_C_92
+  - first:
+      213: -3493552605544748881
+    second: rectTileUniverse_BasicDirt_Tiles_C_93
+  - first:
+      213: -3428384442879309667
+    second: rectTileUniverse_BasicDirt_Tiles_C_94
+  - first:
+      213: 2002787430192968128
+    second: rectTileUniverse_BasicDirt_Tiles_C_95
+  - first:
+      213: 7503220975823794158
+    second: rectTileUniverse_BasicDirt_Tiles_C_96
+  - first:
+      213: 516990361547568688
+    second: rectTileUniverse_BasicDirt_Tiles_C_97
+  - first:
+      213: 665013736672059805
+    second: rectTileUniverse_BasicDirt_Tiles_C_98
+  - first:
+      213: -7830632148290882907
+    second: rectTileUniverse_BasicDirt_Tiles_C_99
+  - first:
+      213: -3645844675707789925
+    second: rectTileUniverse_BasicDirt_Tiles_C_100
+  - first:
+      213: -6934582888832137948
+    second: rectTileUniverse_BasicDirt_Tiles_C_101
+  - first:
+      213: 7765340919204133156
+    second: rectTileUniverse_BasicDirt_Tiles_C_102
+  - first:
+      213: -5286939071824108813
+    second: rectTileUniverse_BasicDirt_Tiles_C_103
+  - first:
+      213: 282532880671252631
+    second: rectTileUniverse_BasicDirt_Tiles_C_104
+  - first:
+      213: -2451109479883349182
+    second: rectTileUniverse_BasicDirt_Tiles_C_105
+  - first:
+      213: 4167546660106910545
+    second: rectTileUniverse_BasicDirt_Tiles_C_106
+  - first:
+      213: -529268176879699471
+    second: rectTileUniverse_BasicDirt_Tiles_C_107
+  - first:
+      213: 6646107149137644934
+    second: rectTileUniverse_BasicDirt_Tiles_C_108
+  - first:
+      213: -7376584111768409904
+    second: rectTileUniverse_BasicDirt_Tiles_C_109
+  - first:
+      213: -7740072114205473540
+    second: rectTileUniverse_BasicDirt_Tiles_C_110
+  - first:
+      213: -6446797239948698621
+    second: rectTileUniverse_BasicDirt_Tiles_C_111
+  - first:
+      213: -6608009081776300490
+    second: rectTileUniverse_BasicDirt_Tiles_C_112
+  - first:
+      213: 1073785526406961053
+    second: rectTileUniverse_BasicDirt_Tiles_C_113
+  - first:
+      213: 5334339839339790272
+    second: rectTileUniverse_BasicDirt_Tiles_C_114
+  - first:
+      213: 5683902403704264808
+    second: rectTileUniverse_BasicDirt_Tiles_C_115
+  - first:
+      213: 4337196572886499365
+    second: rectTileUniverse_BasicDirt_Tiles_C_116
+  - first:
+      213: -1793890097588212786
+    second: rectTileUniverse_BasicDirt_Tiles_C_117
+  - first:
+      213: 3572864331071215357
+    second: rectTileUniverse_BasicDirt_Tiles_C_118
+  - first:
+      213: 4955743406741832272
+    second: rectTileUniverse_BasicDirt_Tiles_C_119
+  - first:
+      213: -5306386462445955862
+    second: rectTileUniverse_BasicDirt_Tiles_C_120
+  - first:
+      213: 722069087912928745
+    second: rectTileUniverse_BasicDirt_Tiles_C_121
+  - first:
+      213: 1063357965355109938
+    second: rectTileUniverse_BasicDirt_Tiles_C_122
+  - first:
+      213: -4713379885971596776
+    second: rectTileUniverse_BasicDirt_Tiles_C_123
+  - first:
+      213: 2078653485211805000
+    second: rectTileUniverse_BasicDirt_Tiles_C_124
+  - first:
+      213: 2450131888451883117
+    second: rectTileUniverse_BasicDirt_Tiles_C_125
+  - first:
+      213: 1006346516209357711
+    second: rectTileUniverse_BasicDirt_Tiles_C_126
+  - first:
+      213: -9036377771499912215
+    second: rectTileUniverse_BasicDirt_Tiles_C_127
+  - first:
+      213: 1920537756582811584
+    second: rectTileUniverse_BasicDirt_Tiles_C_128
+  - first:
+      213: -2400812258746588886
+    second: rectTileUniverse_BasicDirt_Tiles_C_129
+  - first:
+      213: 2489169398217723763
+    second: rectTileUniverse_BasicDirt_Tiles_C_130
+  - first:
+      213: -7948128286874144241
+    second: rectTileUniverse_BasicDirt_Tiles_C_131
+  - first:
+      213: 3848177606625980475
+    second: rectTileUniverse_BasicDirt_Tiles_C_132
+  - first:
+      213: 3829443363341440554
+    second: rectTileUniverse_BasicDirt_Tiles_C_133
+  - first:
+      213: 723076754073967280
+    second: rectTileUniverse_BasicDirt_Tiles_C_134
+  - first:
+      213: 681977751457672001
+    second: rectTileUniverse_BasicDirt_Tiles_C_135
+  - first:
+      213: -2077531160988302116
+    second: rectTileUniverse_BasicDirt_Tiles_C_136
+  - first:
+      213: 851915177145524414
+    second: rectTileUniverse_BasicDirt_Tiles_C_137
+  - first:
+      213: -5775256813116623253
+    second: rectTileUniverse_BasicDirt_Tiles_C_138
+  - first:
+      213: -3825152253128412980
+    second: rectTileUniverse_BasicDirt_Tiles_C_139
+  - first:
+      213: 4561434241811816521
+    second: rectTileUniverse_BasicDirt_Tiles_C_140
+  - first:
+      213: -3205094665088105290
+    second: rectTileUniverse_BasicDirt_Tiles_C_141
+  - first:
+      213: -4615889237790069429
+    second: rectTileUniverse_BasicDirt_Tiles_C_142
+  - first:
+      213: -2223714364272803905
+    second: rectTileUniverse_BasicDirt_Tiles_C_143
+  - first:
+      213: -3090244182004514854
+    second: rectTileUniverse_BasicDirt_Tiles_C_144
+  - first:
+      213: -8792952983515547013
+    second: rectTileUniverse_BasicDirt_Tiles_C_145
+  - first:
+      213: 3135785941689722848
+    second: rectTileUniverse_BasicDirt_Tiles_C_146
+  - first:
+      213: 5691491048210327062
+    second: rectTileUniverse_BasicDirt_Tiles_C_147
+  - first:
+      213: -6840383152614867220
+    second: rectTileUniverse_BasicDirt_Tiles_C_148
+  - first:
+      213: 2710430007762111215
+    second: rectTileUniverse_BasicDirt_Tiles_C_149
+  - first:
+      213: -4581548458074540020
+    second: rectTileUniverse_BasicDirt_Tiles_C_150
+  - first:
+      213: -7615068367311482007
+    second: rectTileUniverse_BasicDirt_Tiles_C_151
+  - first:
+      213: 5274197720295081619
+    second: rectTileUniverse_BasicDirt_Tiles_C_152
+  - first:
+      213: -7602364294012397120
+    second: rectTileUniverse_BasicDirt_Tiles_C_153
+  - first:
+      213: 1367107857733719031
+    second: rectTileUniverse_BasicDirt_Tiles_C_154
+  - first:
+      213: -6561230779376228278
+    second: rectTileUniverse_BasicDirt_Tiles_C_155
+  - first:
+      213: 3632697861134860334
+    second: rectTileUniverse_BasicDirt_Tiles_C_156
+  - first:
+      213: -2633806371380720551
+    second: rectTileUniverse_BasicDirt_Tiles_C_157
+  - first:
+      213: -222265900475895447
+    second: rectTileUniverse_BasicDirt_Tiles_C_158
+  - first:
+      213: 8230483136725944838
+    second: rectTileUniverse_BasicDirt_Tiles_C_159
+  - first:
+      213: -6492038523851658263
+    second: rectTileUniverse_BasicDirt_Tiles_C_160
+  - first:
+      213: -7646658030583689410
+    second: rectTileUniverse_BasicDirt_Tiles_C_161
+  - first:
+      213: 4323107571624315749
+    second: rectTileUniverse_BasicDirt_Tiles_C_162
+  - first:
+      213: -1035239557291576428
+    second: rectTileUniverse_BasicDirt_Tiles_C_163
+  - first:
+      213: -8956079832980025842
+    second: rectTileUniverse_BasicDirt_Tiles_C_164
+  - first:
+      213: -3968168107341678673
+    second: rectTileUniverse_BasicDirt_Tiles_C_165
+  - first:
+      213: 1012927670652922206
+    second: rectTileUniverse_BasicDirt_Tiles_C_166
+  - first:
+      213: -6040297641677031909
+    second: rectTileUniverse_BasicDirt_Tiles_C_167
+  - first:
+      213: 1351727765075721128
+    second: rectTileUniverse_BasicDirt_Tiles_C_168
+  - first:
+      213: -3850093297992448205
+    second: rectTileUniverse_BasicDirt_Tiles_C_169
+  - first:
+      213: 7371156725768036532
+    second: rectTileUniverse_BasicDirt_Tiles_C_170
+  - first:
+      213: 4994615168939179837
+    second: rectTileUniverse_BasicDirt_Tiles_C_171
+  - first:
+      213: 5489685715720149060
+    second: rectTileUniverse_BasicDirt_Tiles_C_172
+  - first:
+      213: -8738868390004993177
+    second: rectTileUniverse_BasicDirt_Tiles_C_173
+  - first:
+      213: 744350952579632314
+    second: rectTileUniverse_BasicDirt_Tiles_C_174
+  - first:
+      213: 2277562378358772232
+    second: rectTileUniverse_BasicDirt_Tiles_C_175
+  - first:
+      213: -7129788460549802596
+    second: rectTileUniverse_BasicDirt_Tiles_C_176
+  - first:
+      213: 7321191315859220201
+    second: rectTileUniverse_BasicDirt_Tiles_C_177
+  - first:
+      213: -4523538545010171985
+    second: rectTileUniverse_BasicDirt_Tiles_C_178
+  - first:
+      213: 7081901254170707493
+    second: rectTileUniverse_BasicDirt_Tiles_C_179
+  - first:
+      213: -5081133753209920445
+    second: rectTileUniverse_BasicDirt_Tiles_C_180
+  - first:
+      213: 3049587630923796225
+    second: rectTileUniverse_BasicDirt_Tiles_C_181
+  - first:
+      213: 7695385014492482351
+    second: rectTileUniverse_BasicDirt_Tiles_C_182
+  - first:
+      213: -5407320680951734624
+    second: rectTileUniverse_BasicDirt_Tiles_C_183
+  - first:
+      213: -5133749396414908628
+    second: rectTileUniverse_BasicDirt_Tiles_C_184
+  - first:
+      213: -4013735090472666876
+    second: rectTileUniverse_BasicDirt_Tiles_C_185
+  - first:
+      213: 7025242288475141977
+    second: rectTileUniverse_BasicDirt_Tiles_C_186
+  - first:
+      213: -4601360994136113819
+    second: rectTileUniverse_BasicDirt_Tiles_C_187
+  - first:
+      213: 9002695710710399094
+    second: rectTileUniverse_BasicDirt_Tiles_C_188
+  - first:
+      213: -3908908483658303758
+    second: rectTileUniverse_BasicDirt_Tiles_C_189
+  - first:
+      213: -7260114500877475219
+    second: rectTileUniverse_BasicDirt_Tiles_C_190
+  - first:
+      213: -6656674769860083287
+    second: rectTileUniverse_BasicDirt_Tiles_C_191
+  - first:
+      213: 7571095381387076057
+    second: rectTileUniverse_BasicDirt_Tiles_C_192
+  - first:
+      213: 691392393426967863
+    second: rectTileUniverse_BasicDirt_Tiles_C_193
+  - first:
+      213: 4936964746723124652
+    second: rectTileUniverse_BasicDirt_Tiles_C_194
+  - first:
+      213: -9152567678348271398
+    second: rectTileUniverse_BasicDirt_Tiles_C_195
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71b17cd52cfb6060800000000000000
+      internalID: 6947924089691550078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fe29cd1bbd12f30800000000000000
+      internalID: 4549158655577222951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adeaf9b046a1baf0800000000000000
+      internalID: -382341696421433944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141e8752c02ba4530800000000000000
+      internalID: 3840077397524799809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7751057f8b75a6e10800000000000000
+      internalID: 2191660620603987319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064c6d1947799c8b0800000000000000
+      internalID: -5131403773493197728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e712466d57881e0800000000000000
+      internalID: -2195375254679749010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badf072f4ec347b20800000000000000
+      internalID: 3131194594947038635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b17fd933c83d3390800000000000000
+      internalID: -7837045365414071879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0122f2ed307725a20800000000000000
+      internalID: 3049630756179485200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc69a9910c3dffa80800000000000000
+      internalID: -8430787155397536049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe0d819c128e14b0800000000000000
+      internalID: -5467789838368567561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fcda33ba4df0240800000000000000
+      internalID: 4760257162925428512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1865439af9df330e0800000000000000
+      internalID: -2291208923221043583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee613f00964d8df70800000000000000
+      internalID: 9212346585238935278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd97c3e0efb9090800000000000000
+      internalID: -8026542573760160986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca2a8e53fc378790800000000000000
+      internalID: -7527981236165662010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e5784b7884cf1d0800000000000000
+      internalID: -3315695477964972524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7411fc98d16e26a80800000000000000
+      internalID: -8474958534217363129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd301cfb63813ef0800000000000000
+      internalID: -130178414403371592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463d49b8ecdc9c6f0800000000000000
+      internalID: -663773183071693980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4dde68fb54f0580800000000000000
+      internalID: -8858785253109672771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd2e64d6293a6020800000000000000
+      internalID: 2335742195680554493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ef5877460f38b80800000000000000
+      internalID: -8393600966195806613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97beb994451d7b20800000000000000
+      internalID: 3133684300101105567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5501d0f1b1230bbd0800000000000000
+      internalID: -2616536291435802539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00a279adb94e4dc0800000000000000
+      internalID: -3652901168810385397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ace11549e4de6690800000000000000
+      internalID: -7606908622230917979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fa1a73773a6e5b0800000000000000
+      internalID: -5339400575771365529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f20d7e03c3fdc60800000000000000
+      internalID: 7845055256647970658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03c5c3a925d85200800000000000000
+      internalID: 169119360844415757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0036279ee8d0ef0800000000000000
+      internalID: -140298880081002243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7de09cd087c5960800000000000000
+      internalID: 7592075072442914773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4e568ae952a5550800000000000000
+      internalID: 6150269604488144068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e32373bd19875b0800000000000000
+      internalID: -5370382184929411496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2725c52cab4701b80800000000000000
+      internalID: -8426106557336628622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a1d349a7109b150800000000000000
+      internalID: 5888739613748304403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab661808f265b2ad0800000000000000
+      internalID: -2725990387423287622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc2233c9b9344ed0800000000000000
+      internalID: -2430754428866646822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799cfb71e7e335120800000000000000
+      internalID: 2401331737603852695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286bb4bef072a18e0800000000000000
+      internalID: -1722020958190193022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b44d1babd26972c0800000000000000
+      internalID: -4433403662561360713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe11e0d0ee9a05d0800000000000000
+      internalID: -3095487105449517323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e898f9f78570a910800000000000000
+      internalID: 1846605074096756960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb5c48aa9dcf3bd0800000000000000
+      internalID: -2648171991738328135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d86f8daa63fa170800000000000000
+      internalID: 8191826354622598491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd503139a0b579e0800000000000000
+      internalID: -1624197849875980854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cd5c86b14ea3aa0800000000000000
+      internalID: -6180376732239537005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6796361ecf8e93e10800000000000000
+      internalID: 2178028067621136758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5741b431076e350800000000000000
+      internalID: 6045642777957791153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3e3e63f680934b0800000000000000
+      internalID: -5460323799454719059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccca2eb2b22e65a0800000000000000
+      internalID: -6526240658923270971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416048c777ab12f20800000000000000
+      internalID: 3396200616366966292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f7c8ea9dc671ba0800000000000000
+      internalID: -6118301886567383263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573ceb9787364a7f0800000000000000
+      internalID: -602247081071033483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e7b94105ebcf850800000000000000
+      internalID: 6412209220621139488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faaee652bcf131e0800000000000000
+      internalID: -2219715298424083724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da0a61b808da38d0800000000000000
+      internalID: -2865740681020044588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d9645c7bada7ef0800000000000000
+      internalID: -109534758093546183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1f32f86595ab5e0800000000000000
+      internalID: -1893102465052315174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3011694e3a073f6f0800000000000000
+      internalID: -652053671821569789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cf3b8569e5d35f0800000000000000
+      internalID: -775359561011561377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa95296e27ebaeaf0800000000000000
+      internalID: -366271018973374038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c21eff3a1d8f8a30800000000000000
+      internalID: 4219746519751725761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bd3de6b0ad9c390800000000000000
+      internalID: -7797461537176429699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97429994a87f68280800000000000000
+      internalID: -9041267028587371399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997fa300a1e946d20800000000000000
+      internalID: 3270913063888025497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a373ef2be024e9170800000000000000
+      internalID: 8187053803506120506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1786aacd1c8f089c0800000000000000
+      internalID: -3926865363552540559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e6e6c0561971060800000000000000
+      internalID: 6924162815291715133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a13ec27f74ec3430800000000000000
+      internalID: 3764134624612987300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99392b54afa0ccc0800000000000000
+      internalID: -3692758574004880997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d12ffd121c227a0800000000000000
+      internalID: -6403343368932156115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d09833fb7a131f0800000000000000
+      internalID: -1066887197064884914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebccf809485c6120800000000000000
+      internalID: 2408396971443014634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600f55d0898531fe0800000000000000
+      internalID: -1219533664005263354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896d95f188c4f6420800000000000000
+      internalID: 2625401255305533080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db73e843e7cd22110800000000000000
+      internalID: 1234791682458662845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9da83d05ac88a50800000000000000
+      internalID: 6523686508741450175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c45c0b5ae9b87b10800000000000000
+      internalID: 1979536452430353602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b9c376142d33c80800000000000000
+      internalID: -8344094506240664796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b64b5115c6df7c0800000000000000
+      internalID: -4035950595541800090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a061ddab060c82b0800000000000000
+      internalID: -5581079190988300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73691a513c801b70800000000000000
+      internalID: 8867741809885406074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2bb38070decd520800000000000000
+      internalID: 2728316088738362059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09562815d24dbb0c0800000000000000
+      internalID: -4558816906676378224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df238a2a1249e0500800000000000000
+      internalID: 364391492047352573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c26521fa8b48740800000000000000
+      internalID: 5153446935685114935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e75993fc281c4ac0800000000000000
+      internalID: -3869691398473558039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9275a11c3f2c0b270800000000000000
+      internalID: 8264319668397430569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963cae510b4d7c740800000000000000
+      internalID: 5172336549805343593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b796e712dbe07caa0800000000000000
+      internalID: -6140923361422841477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83000ba4d8f334770800000000000000
+      internalID: 8593782390029025336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa86d563a68648fc0800000000000000
+      internalID: -3493552605544748881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9804b8738eeb60d0800000000000000
+      internalID: -3428384442879309667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1f4497e845bcb10800000000000000
+      internalID: 2002787430192968128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefac3749bbc02860800000000000000
+      internalID: 7503220975823794158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_97
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036f754aef7bc2700800000000000000
+      internalID: 516990361547568688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91e719587a9a3900800000000000000
+      internalID: 665013736672059805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a23e52bc81045390800000000000000
+      internalID: -7830632148290882907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d103e759b576dc0800000000000000
+      internalID: -3645844675707789925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42588a58a9963cf90800000000000000
+      internalID: -6934582888832137948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429b7f86c6804cb60800000000000000
+      internalID: 7765340919204133156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f26ac2fce401a6b0800000000000000
+      internalID: -5286939071824108813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79027c57822cbe300800000000000000
+      internalID: 282532880671252631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_105
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243e5f12ae8ebfdd0800000000000000
+      internalID: -2451109479883349182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bb9845b9916d930800000000000000
+      internalID: 4167546660106910545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9ba26b569a7a8f0800000000000000
+      internalID: -529268176879699471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_108
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d88835d37bb3c50800000000000000
+      internalID: 6646107149137644934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_109
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8e04a45db11a990800000000000000
+      internalID: -7376584111768409904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_110
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf440e8bb6db59490800000000000000
+      internalID: -7740072114205473540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_111
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c93ed11106886a0800000000000000
+      internalID: -6446797239948698621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e1b2830c2ab44a0800000000000000
+      internalID: -6608009081776300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9751724f3ad6ee00800000000000000
+      internalID: 1073785526406961053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfff0342d1670a40800000000000000
+      internalID: 5334339839339790272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86818ce1f1741ee40800000000000000
+      internalID: 5683902403704264808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52001f7bd41d03c30800000000000000
+      internalID: 4337196572886499365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbe92fe572da17e0800000000000000
+      internalID: -1793890097588212786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6d924ed2d559130800000000000000
+      internalID: 3572864331071215357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c4dc2f5656c440800000000000000
+      internalID: 4955743406741832272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae497f870adeb56b0800000000000000
+      internalID: -5306386462445955862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e52750820e450a00800000000000000
+      internalID: 722069087912928745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ec2128f6ec1ce00800000000000000
+      internalID: 1063357965355109938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a113d57f5b69eb0800000000000000
+      internalID: -4713379885971596776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8456d25e45cd8dc10800000000000000
+      internalID: 2078653485211805000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d601800a8fd900220800000000000000
+      internalID: 2450131888451883117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f835c9b13d247fd00800000000000000
+      internalID: 1006346516209357711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e303892b46589280800000000000000
+      internalID: -9036377771499912215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c718d60aee17aa10800000000000000
+      internalID: 1920537756582811584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21a10188f99eaed0800000000000000
+      internalID: -2400812258746588886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f4a86216e4b8220800000000000000
+      internalID: 2489169398217723763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02f1af1f6392b190800000000000000
+      internalID: -7948128286874144241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30fd8b0529776530800000000000000
+      internalID: 3848177606625980475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26917f137ae42530800000000000000
+      internalID: 3829443363341440554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0badbef0a72e80a00800000000000000
+      internalID: 723076754073967280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14baa54d62fd67900800000000000000
+      internalID: 681977751457672001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4cc739a602b23e0800000000000000
+      internalID: -2077531160988302116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_137
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0e588075c92db00800000000000000
+      internalID: 851915177145524414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66778fe68a2adfa0800000000000000
+      internalID: -5775256813116623253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0fe74da445aeac0800000000000000
+      internalID: -3825152253128412980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9402f7186487d4f30800000000000000
+      internalID: 4561434241811816521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b48ce722673583d0800000000000000
+      internalID: -3205094665088105290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d69fab13111ffb0800000000000000
+      internalID: -4615889237790069429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbff5934197c321e0800000000000000
+      internalID: -2223714364272803905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf376e0a4f3d15d0800000000000000
+      internalID: -3090244182004514854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a38da39d729f580800000000000000
+      internalID: -8792952983515547013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7641a23bc848b20800000000000000
+      internalID: 3135785941689722848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_147
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61664ea14fc3cfe40800000000000000
+      internalID: 5691491048210327062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceef2dcb3c31211a0800000000000000
+      internalID: -6840383152614867220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea48394bb16d9520800000000000000
+      internalID: 2710430007762111215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c087a3393f11b60c0800000000000000
+      internalID: -4581548458074540020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_151
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963d5129aa7d15690800000000000000
+      internalID: -7615068367311482007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3960d59f1e6b13940800000000000000
+      internalID: 5274197720295081619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_153
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9174224f9fe7690800000000000000
+      internalID: -7602364294012397120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f31dd57a51f8f210800000000000000
+      internalID: 1367107857733719031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_155
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48abe97e53d1f4a0800000000000000
+      internalID: -6561230779376228278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20c345357fe96230800000000000000
+      internalID: 3632697861134860334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_157
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c01ba4f07d27bd0800000000000000
+      internalID: -2633806371380720551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961b374575a5aecf0800000000000000
+      internalID: -222265900475895447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_159
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a846e4ecc883270800000000000000
+      internalID: 8230483136725944838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebabaddb55a7e5a0800000000000000
+      internalID: -6492038523851658263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_161
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fcb20f80d91e590800000000000000
+      internalID: -7646658030583689410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b087c7e63cefb30800000000000000
+      internalID: 4323107571624315749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_163
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493f33a8b1712a1f0800000000000000
+      internalID: -1035239557291576428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e8f2fd7dc95b380800000000000000
+      internalID: -8956079832980025842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_165
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa77dd0712c3ee8c0800000000000000
+      internalID: -3968168107341678673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e596e688954ae0e00800000000000000
+      internalID: 1012927670652922206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_167
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16f53a3c4d8c2ca0800000000000000
+      internalID: -6040297641677031909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abfe569d3d42c210800000000000000
+      internalID: 1351727765075721128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3374c0d4b88b19ac0800000000000000
+      internalID: -3850093297992448205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0a22fecfb9b4660800000000000000
+      internalID: 7371156725768036532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fb5669800705540800000000000000
+      internalID: 4994615168939179837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4481906a2184f2c40800000000000000
+      internalID: 5489685715720149060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763dcd2ff7d49b680800000000000000
+      internalID: -8738868390004993177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc8bb46f37745a00800000000000000
+      internalID: 744350952579632314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8025ed38ae68b9f10800000000000000
+      internalID: 2277562378358772232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95ff3d9b27ed0d90800000000000000
+      internalID: -7129788460549802596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6a67266b81a9560800000000000000
+      internalID: 7321191315859220201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf91e8f8a92931c0800000000000000
+      internalID: -4523538545010171985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_179
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5260d3d4ba7f74260800000000000000
+      internalID: 7081901254170707493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_180
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344ecafb5cf2c79b0800000000000000
+      internalID: -5081133753209920445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_181
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f43acfacf425a20800000000000000
+      internalID: 3049587630923796225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b40b616ef7bca60800000000000000
+      internalID: 7695385014492482351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_183
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae9f396d7655f4b0800000000000000
+      internalID: -5407320680951734624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2730dcaf1241c8b0800000000000000
+      internalID: -5133749396414908628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_185
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4093bdd63395c48c0800000000000000
+      internalID: -4013735090472666876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957fc99d3acae7160800000000000000
+      internalID: 7025242288475141977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_187
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dbd2d0e8ea420c0800000000000000
+      internalID: -4601360994136113819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67083d1fc0000fc70800000000000000
+      internalID: 9002695710710399094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_189
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f63904c174c0c9c0800000000000000
+      internalID: -3908908483658303758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_190
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d622982c354ee3b90800000000000000
+      internalID: -7260114500877475219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_191
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a14f2db09dbe93a0800000000000000
+      internalID: -6656674769860083287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_192
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d16d20d22fe11960800000000000000
+      internalID: 7571095381387076057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_193
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d1f9af7b1589900800000000000000
+      internalID: 691392393426967863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_194
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5ee0da74f938440800000000000000
+      internalID: 4936964746723124652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rectTileUniverse_BasicDirt_Tiles_C_195
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0645d503c8bf080800000000000000
+      internalID: -9152567678348271398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
