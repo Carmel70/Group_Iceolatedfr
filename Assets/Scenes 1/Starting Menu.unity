@@ -152,7 +152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c9f36fe86c185fb46843102ccf467db9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  varname: DemoMountain
+  varname: Village
 --- !u!4 &161840346
 Transform:
   m_ObjectHideFlags: 0
