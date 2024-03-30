@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+using System.Runtime.CompilerServices;
 
 public class playerMove : MonoBehaviour
 {
@@ -12,17 +13,30 @@ public class playerMove : MonoBehaviour
     public float speed = 3.0f;
     Vector2 lookDirection = new Vector2(1, 0);
     public GameObject Cat;
-
+    public float LightTime;
+ 
     Animator animator;
     Animator animator1;
 
+    public GameObject LaternUiOff;
+    public GameObject LaternUiOn;
+    public GameObject LaternLightSource;
+    public GameObject Manager;
+    
     public int Money;
     public bool HasLatern;
     public bool HasEnergyBar;
     public bool HasIcePick;
+    public bool LightOn;
+    public bool LaternLightOn;
+
+
+
+
     // Start is called before the first frame update
     void Start()
     {
+        
         rigidbody2d = GetComponent<Rigidbody2D>();
         //timer = changeTime;
         animator = GetComponent<Animator>();
@@ -31,13 +45,26 @@ public class playerMove : MonoBehaviour
         HasLatern = false;
         HasEnergyBar = false;
         HasIcePick = false;
+        LightOn = false;
+        LaternLightOn = false;
 
+        if (LaternLightOn == false)
+        {
+            LaternLightSource.SetActive(false);
+        }
+        
+
+        LightTime = 0f;
+
+        LaternUiOff.SetActive(false);
+        LaternUiOn.SetActive(false);
+        LaternLightSource.SetActive(false);
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (ShopOpen ==  false)
+        if (ShopOpen == false)
         {
             horizontal = Input.GetAxis("Horizontal");
             vertical = Input.GetAxis("Vertical");
@@ -47,11 +74,13 @@ public class playerMove : MonoBehaviour
             {
                 lookDirection.Set(move.x, move.y);
                 lookDirection.Normalize();
+
+                animator.SetFloat("Look X", lookDirection.x);
+                animator.SetFloat("Look Y", lookDirection.y);
+                animator.SetFloat("Speed", move.magnitude);
             }
 
-            animator.SetFloat("Look X", lookDirection.x);
-            animator.SetFloat("Look Y", lookDirection.y);
-            animator.SetFloat("Speed", move.magnitude);
+            
 
 
             if (Cat != null)
@@ -68,20 +97,40 @@ public class playerMove : MonoBehaviour
         {
             animator.SetFloat("Speed", 0f);
         }
+
+        if (Input.GetKey(KeyCode.L))
+        {
+            if (LightOn == false && LightTime <= 0f)
+            {
+                LightTurnOn();
+                LightTime = .5f;
+                
+            }
+            
+            else if (LightOn == true && LightTime <= 0f)
+            {
+                LightTurnOff();
+                LightTime = .5f;
+                LightTime -= Time.deltaTime;
+            }
+
+        }
+
+        if (LightOn == true)
+        {
+            LightTime -= Time.deltaTime;
+        }
+
+        if (LightOn == false)
+        {
+            LightTime -= Time.deltaTime;
+        }
+
+
+         
         
 
-        //  if (Input.GetKeyDown(KeyCode.Space))
-        //{
-        //    RaycastHit2D hit = Physics2D.Raycast(rigidbody2d.position + Vector2.up * 0.2f, lookDirection, 1.5f);
-        //    Debug.Log("Raycast was casted");
-        //    Debug.DrawRay(transform.position, new Vector2 (transform.position.x, transform.position.y), Color.green, 10f);
-        //   if (hit.collider != null && tag == "NPC")
-        //    {
-        //        Debug.Log("Raycast has hit the object " + hit.collider.gameObject);
-        //    }
-        // }
 
-      
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
@@ -98,13 +147,6 @@ public class playerMove : MonoBehaviour
             }
         }
 
-        if (Input.GetKey(KeyCode.L))
-        {
-            if (HasLatern == true)
-            {
-
-            }
-        }
     }
 
     void FixedUpdate()
@@ -118,20 +160,23 @@ public class playerMove : MonoBehaviour
 
             rigidbody2d.MovePosition(position);
         }
-        
+
     }
 
     public void Buylatern()
     {
+        
         if (Money >= 10 && HasLatern == false)
         {
             HasLatern = true;
+            LaternUiOff.SetActive(true);
             Money -= 10;
         }
     }
 
     public void BuyEnergyBar()
     {
+        
         if (Money >= 5 && HasEnergyBar == false)
         {
             HasEnergyBar = true;
@@ -139,19 +184,73 @@ public class playerMove : MonoBehaviour
         }
 
         //else if (HasEnergyBar == true)
-       // {
+        // {
 
-       // }
+        // }
     }
 
     public void BuyIcePick()
     {
+        
         if (Money >= 25 && HasIcePick == false)
         {
             HasIcePick = true;
             Money -= 25;
         }
     }
+
+    public void LightTurnOn()
+    {
+        
+        if (HasLatern == true)
+        {
+
+            LaternUiOn.SetActive(true);
+            LaternUiOff.SetActive(false);
+            LaternLightSource.SetActive(true);
+            LightOn = true;
+            LaternLightOn = true;
+
+            
+        }
+    }
+
+    public void LightTurnOff()
+    {
+      
+        if (HasLatern == true)
+        {
+
+            if (LightOn == true)
+            {
+
+                LaternUiOn.SetActive(false);
+                LaternUiOff.SetActive(true);
+                LaternLightSource.SetActive(false);
+                LightOn = false;
+                LaternLightOn= false;
+
+            }
+        }
+    }
+
+    public bool LightIsOn
+    {
+        get { return LightOn; }
+    }
+
+    public bool HasLantern
+    {
+        get { return HasLatern; }
+    }
+
+    public int PlayerMoney
+    {
+        get { return Money; }
+    }
+
+
+
 }
 
 
