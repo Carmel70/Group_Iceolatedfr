@@ -6183,7 +6183,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShopOpen: 0
   speed: 3
-  Cat: {fileID: 0}
+  Cat: {fileID: 1054854718}
   LightTime: 0
   LaternUiOff: {fileID: 775671443}
   LaternUiOn: {fileID: 41747251}
