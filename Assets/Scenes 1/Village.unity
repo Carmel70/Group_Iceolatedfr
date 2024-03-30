@@ -6572,8 +6572,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14b76803fbba8c0479593c53e92d5e8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MoneyNum: {fileID: 0}
-  player: {fileID: 0}
+  MoneyNum: {fileID: 1820112699}
+  player: {fileID: 605181935}
 --- !u!4 &668003179
 Transform:
   m_ObjectHideFlags: 0
