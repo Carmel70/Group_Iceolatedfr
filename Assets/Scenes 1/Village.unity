@@ -6188,10 +6188,7 @@ MonoBehaviour:
   LaternUiOff: {fileID: 775671443}
   LaternUiOn: {fileID: 41747251}
   LaternLightSource: {fileID: 344097888}
-  Canvas: {fileID: 2059067361}
-  Player: {fileID: 534558617}
-  Camera: {fileID: 1743831760}
-  CameraCamera: {fileID: 1380639112}
+  Manager: {fileID: 0}
   Money: 20
   HasLatern: 0
   HasEnergyBar: 0
@@ -6723,7 +6720,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c99494299c4ac5f4e847ab57fb256933, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  followCharacter: {fileID: 0}
+  followCharacter: {fileID: 534558618}
   distanceFromCharacter: 1.5
   followCharacterPositions: []
   allowableSampleDistance: 0.5
