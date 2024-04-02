@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes 1/ExitHouse.unity
     guid: 5273e99654ab10e4e8902a4170dd4724
+  - enabled: 1
+    path: Assets/Scenes 1/VillageFromMountain.unity
+    guid: 3d5dcf69ba5dcf346a0777210224de7c
   m_configObjects: {}
