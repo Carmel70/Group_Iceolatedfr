@@ -22,13 +22,16 @@ public class playerMove : MonoBehaviour
     public GameObject LaternUiOn;
     public GameObject LaternLightSource;
     public GameObject Manager;
+    public GameObject EnergyUneaten;
+    public GameObject EnergyEaten;
     
     public int Money;
     public bool HasLatern;
-    public bool HasEnergyBar;
     public bool HasIcePick;
     public bool LightOn;
     public bool LaternLightOn;
+    public bool HasEnergyBar;
+
 
 
 
