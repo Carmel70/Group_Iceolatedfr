@@ -60,6 +60,7 @@
     <Compile Include="Assets\scripts\playerMove.cs" />
     <Compile Include="Assets\scripts\MoneyText.cs" />
     <Compile Include="Assets\scripts\NonPlayerCharacter.cs" />
+    <Compile Include="Assets\scripts\Teleport.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
