@@ -14,6 +14,7 @@ public class playerMove : MonoBehaviour
     Vector2 lookDirection = new Vector2(1, 0);
     public GameObject Cat;
     public float LightTime;
+    public float EnergyTime;
  
     Animator animator;
     Animator animator1;
@@ -22,13 +23,16 @@ public class playerMove : MonoBehaviour
     public GameObject LaternUiOn;
     public GameObject LaternLightSource;
     public GameObject Manager;
+    public GameObject EnergyUneaten;
+    public GameObject EnergyEaten;
     
     public int Money;
     public bool HasLatern;
-    public bool HasEnergyBar;
     public bool HasIcePick;
     public bool LightOn;
     public bool LaternLightOn;
+    public bool HasEnergyBar;
+
 
 
 
@@ -55,10 +59,14 @@ public class playerMove : MonoBehaviour
         
 
         LightTime = 0f;
+        EnergyTime = 0f;
+
 
         LaternUiOff.SetActive(false);
         LaternUiOn.SetActive(false);
         LaternLightSource.SetActive(false);
+        EnergyUneaten.SetActive(false);
+        EnergyEaten.SetActive(false);
     }
 
     // Update is called once per frame
@@ -128,9 +136,28 @@ public class playerMove : MonoBehaviour
 
 
          
-        
+        if (Input.GetKey(KeyCode.E))
+        {
+            if (EnergyUneaten == true)
+            {
+                EnergyUneaten.SetActive(false);
+                EnergyEaten.SetActive(true);
+                speed = 5f;
+                EnergyTime = 25f;
+            }
 
+            
+        }
 
+        if (EnergyEaten == true)
+        {
+            EnergyTime -= Time.deltaTime;
+        }
+
+        if (EnergyTime <= 0f)
+        {
+            speed = 3f;
+        }
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
@@ -180,13 +207,11 @@ public class playerMove : MonoBehaviour
         if (Money >= 5 && HasEnergyBar == false)
         {
             HasEnergyBar = true;
+            EnergyUneaten.SetActive(true);
             Money -= 5;
         }
 
-        //else if (HasEnergyBar == true)
-        // {
-
-        // }
+        
     }
 
     public void BuyIcePick()
