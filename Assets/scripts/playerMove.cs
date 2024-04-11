@@ -32,6 +32,7 @@ public class playerMove : MonoBehaviour
     public bool LightOn;
     public bool LaternLightOn;
     public bool HasEnergyBar;
+    public bool WasEaten;
 
 
 
@@ -51,6 +52,7 @@ public class playerMove : MonoBehaviour
         HasIcePick = false;
         LightOn = false;
         LaternLightOn = false;
+        WasEaten = false;
 
         if (LaternLightOn == false)
         {
@@ -138,10 +140,11 @@ public class playerMove : MonoBehaviour
          
         if (Input.GetKey(KeyCode.E))
         {
-            if (EnergyUneaten == true)
+            if (EnergyUneaten == true && WasEaten == false && HasEnergyBar == true)
             {
                 EnergyUneaten.SetActive(false);
                 EnergyEaten.SetActive(true);
+                WasEaten = true;
                 speed = 5f;
                 EnergyTime = 25f;
             }

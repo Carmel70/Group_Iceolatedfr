@@ -1,16 +1,28 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System;
-using System.Runtime.CompilerServices;
+using UnityEngine.SceneManagement;
 
 public class Teleport : MonoBehaviour
 {
-    public int x;
-    public int y;
-    public int z;
-
     public GameObject Player;
+    public GameObject OldYuno;
+    public GameObject NewYuno;
+    public GameObject OldCam;
+    public GameObject OldVCam;
+    public GameObject OldCamCol;
+    public GameObject NewCam;
+    public GameObject NewVCam;
+    public GameObject NewCamCol;
+
+
+    public GameObject oldMusic;
+    public GameObject newMusic;
+   
+
+    public float x;
+    public float y;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -20,14 +32,26 @@ public class Teleport : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+       
     }
 
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.CompareTag("Player"))
-        {
-            Player.transform.position = new Vector3(x, y, z);
-        }
+        Player.transform.position = new Vector2(x, y);
+  
+        oldMusic.SetActive(false);
+
+        OldCam.SetActive(false);
+        OldVCam.SetActive(false);
+        OldCamCol.SetActive(false);
+
+       
+
+        NewCam.SetActive(true);
+        NewVCam.SetActive(true);
+        NewCamCol.SetActive(true);
+
+        newMusic.SetActive(true);
     }
+
 }
