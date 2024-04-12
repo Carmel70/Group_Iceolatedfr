@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 using System.Runtime.CompilerServices;
+using UnityEngine.SceneManagement;
 
 public class playerMove : MonoBehaviour
 {
@@ -15,6 +16,8 @@ public class playerMove : MonoBehaviour
     public GameObject Cat;
     public float LightTime;
     public float EnergyTime;
+
+    public int numLives;
  
     Animator animator;
     Animator animator1;
@@ -25,6 +28,12 @@ public class playerMove : MonoBehaviour
     public GameObject Manager;
     public GameObject EnergyUneaten;
     public GameObject EnergyEaten;
+
+    public GameObject Health3;
+    public GameObject Health2;
+    public GameObject Health1;
+    public GameObject Health0;
+    public GameObject lowHealth;
     
     public int Money;
     public bool HasLatern;
@@ -74,6 +83,12 @@ public class playerMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        if (numLives <= 0)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
+
         if (ShopOpen == false)
         {
             horizontal = Input.GetAxis("Horizontal");
@@ -177,6 +192,44 @@ public class playerMove : MonoBehaviour
             }
         }
 
+
+        if (numLives == 3)
+        {
+            Health3.SetActive(true);
+            Health2.SetActive(false);
+            Health1.SetActive(false);
+            Health0.SetActive(false);
+            lowHealth.SetActive(false);
+        }
+
+        else if (numLives == 2) 
+        {
+            Health3.SetActive(false);
+            Health2.SetActive(true);
+            Health1.SetActive(false);
+            Health0.SetActive(false);
+            lowHealth.SetActive(false);
+        }
+
+        else if (numLives == 1)
+        {
+            Health3.SetActive(false);
+            Health2.SetActive(false);
+            Health1.SetActive(true);
+            Health0.SetActive(false);
+            lowHealth.SetActive(true);
+        }
+
+        else if (numLives <= 0)
+        {
+            Health3.SetActive(false);
+            Health2.SetActive(false);
+            Health1.SetActive(false);
+            Health0.SetActive(true);
+            lowHealth.SetActive(false);
+        }
+
+
     }
 
     void FixedUpdate()
@@ -261,6 +314,8 @@ public class playerMove : MonoBehaviour
             }
         }
     }
+
+   
 
     public bool LightIsOn
     {
