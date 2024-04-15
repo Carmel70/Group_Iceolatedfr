@@ -200,7 +200,6 @@ public class playerMove : MonoBehaviour
             Health1.SetActive(false);
             Health0.SetActive(false);
             lowHealth.SetActive(false);
-            speed = 3f;
         }
 
         else if (numLives == 2) 
@@ -210,7 +209,6 @@ public class playerMove : MonoBehaviour
             Health1.SetActive(false);
             Health0.SetActive(false);
             lowHealth.SetActive(false);
-            speed = 3f;
         }
 
         else if (numLives == 1)
@@ -220,7 +218,6 @@ public class playerMove : MonoBehaviour
             Health1.SetActive(true);
             Health0.SetActive(false);
             lowHealth.SetActive(true);
-            speed = 2f;
         }
 
         else if (numLives <= 0)
