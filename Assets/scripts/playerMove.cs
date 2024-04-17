@@ -4,10 +4,12 @@ using UnityEngine;
 using System;
 using System.Runtime.CompilerServices;
 using UnityEngine.SceneManagement;
+using WorldTime;
 
 public class playerMove : MonoBehaviour
 {
     public bool ShopOpen;
+    public bool canPlay = false;
     Rigidbody2D rigidbody2d;
     float horizontal;
     float vertical;
@@ -34,6 +36,8 @@ public class playerMove : MonoBehaviour
     public GameObject Health1;
     public GameObject Health0;
     public GameObject lowHealth;
+
+    public GameObject NightMusic;
     
     public int Money;
     public bool HasLatern;
@@ -45,12 +49,18 @@ public class playerMove : MonoBehaviour
 
 
 
+    private WorldLight musicChange;
+    public GameObject globalLight;
+    public GameObject currentMusic;
 
 
+    
+ 
     // Start is called before the first frame update
     void Start()
     {
-        
+        currentMusic.SetActive(true);
+        musicChange = globalLight.GetComponent<WorldLight>();
         rigidbody2d = GetComponent<Rigidbody2D>();
         //timer = changeTime;
         animator = GetComponent<Animator>();
@@ -79,6 +89,8 @@ public class playerMove : MonoBehaviour
         EnergyUneaten.SetActive(false);
         EnergyEaten.SetActive(false);
     }
+
+
 
     // Update is called once per frame
     void Update()
@@ -200,6 +212,7 @@ public class playerMove : MonoBehaviour
             Health1.SetActive(false);
             Health0.SetActive(false);
             lowHealth.SetActive(false);
+            
         }
 
         else if (numLives == 2) 
@@ -209,6 +222,7 @@ public class playerMove : MonoBehaviour
             Health1.SetActive(false);
             Health0.SetActive(false);
             lowHealth.SetActive(false);
+            
         }
 
         else if (numLives == 1)
@@ -218,6 +232,8 @@ public class playerMove : MonoBehaviour
             Health1.SetActive(true);
             Health0.SetActive(false);
             lowHealth.SetActive(true);
+           
+            
         }
 
         else if (numLives <= 0)
@@ -229,8 +245,12 @@ public class playerMove : MonoBehaviour
             lowHealth.SetActive(false);
         }
 
+      
+        
 
     }
+
+    
 
     void FixedUpdate()
     {
