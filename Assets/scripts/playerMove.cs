@@ -50,7 +50,7 @@ public class playerMove : MonoBehaviour
 
 
     private WorldLight musicChange;
-    public GameObject globalLight;
+    public GameObject tele;
     public GameObject currentMusic;
 
 
@@ -60,7 +60,7 @@ public class playerMove : MonoBehaviour
     void Start()
     {
         currentMusic.SetActive(true);
-        musicChange = globalLight.GetComponent<WorldLight>();
+        musicChange = tele.GetComponent<WorldLight>();
         rigidbody2d = GetComponent<Rigidbody2D>();
         //timer = changeTime;
         animator = GetComponent<Animator>();
