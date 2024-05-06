@@ -37,7 +37,7 @@ public class playerMove : MonoBehaviour
     public GameObject Health0;
     public GameObject lowHealth;
 
-    public GameObject NightMusic;
+    //public GameObject NightMusic;
     
     public int Money;
     public bool HasLatern;
@@ -47,10 +47,13 @@ public class playerMove : MonoBehaviour
     public bool HasEnergyBar;
     public bool WasEaten;
 
+    private bool gameBeaten;
+
+    public GameObject finishGame;
 
 
     private WorldLight musicChange;
-    public GameObject tele;
+   // public GameObject tele;
     public GameObject currentMusic;
 
 
@@ -60,7 +63,7 @@ public class playerMove : MonoBehaviour
     void Start()
     {
         currentMusic.SetActive(true);
-        musicChange = tele.GetComponent<WorldLight>();
+        //musicChange = tele.GetComponent<WorldLight>();
         rigidbody2d = GetComponent<Rigidbody2D>();
         //timer = changeTime;
         animator = GetComponent<Animator>();
@@ -72,6 +75,7 @@ public class playerMove : MonoBehaviour
         LightOn = false;
         LaternLightOn = false;
         WasEaten = false;
+        gameBeaten = false;
 
         if (LaternLightOn == false)
         {
@@ -335,6 +339,15 @@ public class playerMove : MonoBehaviour
         }
     }
 
+    void OnCollisionEnter2D(Collision2D col)
+    {
+      
+    }
+
+    public void Endgame()
+    {
+       
+    }
    
 
     public bool LightIsOn
