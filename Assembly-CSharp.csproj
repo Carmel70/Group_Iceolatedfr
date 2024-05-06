@@ -58,15 +58,15 @@
     <Compile Include="Assets\scripts\arrow.cs" />
     <Compile Include="Assets\scripts\GameManager.cs" />
     <Compile Include="Assets\scripts\SceneSwitch.cs" />
+    <Compile Include="Assets\scripts\WorldLight.cs" />
     <Compile Include="Assets\scripts\Teleport.cs" />
     <Compile Include="Assets\scripts\NPCfollow.cs" />
+    <Compile Include="Assets\scripts\Dialogue.cs" />
     <Compile Include="Assets\scripts\CaveFallScript.cs" />
     <Compile Include="Assets\scripts\playerMove.cs" />
     <Compile Include="Assets\scripts\MoneyText.cs" />
     <Compile Include="Assets\scripts\NonPlayerCharacter.cs" />
     <Compile Include="Assets\scripts\HealthGiving.cs" />
-    <Compile Include="Assets\scripts\WorldLight.cs" />
-    <Compile Include="Assets\scripts\Dialogue.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

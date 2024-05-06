@@ -18,7 +18,10 @@ public class Teleport : MonoBehaviour
 
     public GameObject oldMusic;
     public GameObject newMusic;
-   
+    public GameObject NightMusic;
+
+
+    
 
     public float x;
     public float y;
@@ -26,7 +29,7 @@ public class Teleport : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+       
     }
 
     // Update is called once per frame

@@ -9,21 +9,22 @@ namespace WorldTime
     public class WorldLight : MonoBehaviour
     {
         public float duration = 5f;
-        
+
 
         [SerializeField] private Gradient gradient;
         private Light2D _light;
         private float _startTime;
-        public GameObject nightMusic;
-        private playerMove musicChanges;
-        public GameObject player;
+
+        private Teleport musicChanges;
+        public GameObject teleport;
         private void Awake()
         {
-            musicChanges = player.GetComponent<playerMove>();
+            musicChanges = teleport.GetComponent<Teleport>();
             _light = GetComponent<Light2D>();
             _startTime = Time.time;
-            nightMusic.SetActive(false);
+
         }
+
 
         // Update is called once per frame
         void Update()
@@ -39,14 +40,16 @@ namespace WorldTime
 
             if (percentage <= .25 || percentage >= .75)
             {
-                nightMusic.SetActive(true);
-                musicChanges.currentMusic.SetActive(false);
+                
+                musicChanges.NightMusic.SetActive(true);
+                musicChanges.oldMusic.SetActive(false);
+                
             }
 
             else if (percentage < .75 && percentage > .25)
             {
-                nightMusic.SetActive(false);
-                musicChanges.currentMusic.SetActive(true);
+                musicChanges.NightMusic.SetActive(false);
+                musicChanges.oldMusic.SetActive(true);
             }
         }
 
