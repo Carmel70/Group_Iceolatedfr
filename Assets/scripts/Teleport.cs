@@ -18,7 +18,7 @@ public class Teleport : MonoBehaviour
 
     public GameObject oldMusic;
     public GameObject newMusic;
-    public GameObject NightMusic;
+   // public GameObject NightMusic;
 
 
     
