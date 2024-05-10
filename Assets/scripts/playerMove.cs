@@ -20,7 +20,7 @@ public class playerMove : MonoBehaviour
     public float EnergyTime;
 
     public int numLives;
- 
+
     Animator animator;
     Animator animator1;
 
@@ -35,10 +35,13 @@ public class playerMove : MonoBehaviour
     public GameObject Health2;
     public GameObject Health1;
     public GameObject Health0;
-    public GameObject lowHealth;
+    public GameObject lowHealthVillage;
+    public GameObject lowHealthShop;
+    public GameObject lowHealthCabin;
+    // public GameObject lowHealthCave;
 
     //public GameObject NightMusic;
-    
+
     public int Money;
     public bool HasLatern;
     public bool HasIcePick;
@@ -53,12 +56,12 @@ public class playerMove : MonoBehaviour
 
 
     private WorldLight musicChange;
-   // public GameObject tele;
+    // public GameObject tele;
     public GameObject currentMusic;
 
 
-    
- 
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -81,7 +84,7 @@ public class playerMove : MonoBehaviour
         {
             LaternLightSource.SetActive(false);
         }
-        
+
 
         LightTime = 0f;
         EnergyTime = 0f;
@@ -121,7 +124,7 @@ public class playerMove : MonoBehaviour
                 animator.SetFloat("Speed", move.magnitude);
             }
 
-            
+
 
 
             if (Cat != null)
@@ -145,9 +148,9 @@ public class playerMove : MonoBehaviour
             {
                 LightTurnOn();
                 LightTime = .5f;
-                
+
             }
-            
+
             else if (LightOn == true && LightTime <= 0f)
             {
                 LightTurnOff();
@@ -168,7 +171,7 @@ public class playerMove : MonoBehaviour
         }
 
 
-         
+
         if (Input.GetKey(KeyCode.E))
         {
             if (EnergyUneaten == true && WasEaten == false && HasEnergyBar == true)
@@ -180,7 +183,7 @@ public class playerMove : MonoBehaviour
                 EnergyTime = 25f;
             }
 
-            
+
         }
 
         if (EnergyEaten == true)
@@ -215,18 +218,25 @@ public class playerMove : MonoBehaviour
             Health2.SetActive(false);
             Health1.SetActive(false);
             Health0.SetActive(false);
-            lowHealth.SetActive(false);
-            
+            lowHealthVillage.SetActive(false);
+            lowHealthShop.SetActive(false);
+            lowHealthCabin.SetActive(false);
+            //lowHealthCave.SetActive(false);
+
+
         }
 
-        else if (numLives == 2) 
+        else if (numLives == 2)
         {
             Health3.SetActive(false);
             Health2.SetActive(true);
             Health1.SetActive(false);
             Health0.SetActive(false);
-            lowHealth.SetActive(false);
-            
+            lowHealthVillage.SetActive(false);
+            lowHealthShop.SetActive(false);
+            lowHealthCabin.SetActive(false);
+            //lowHealthCave.SetActive(false);
+
         }
 
         else if (numLives == 1)
@@ -235,9 +245,12 @@ public class playerMove : MonoBehaviour
             Health2.SetActive(false);
             Health1.SetActive(true);
             Health0.SetActive(false);
-            lowHealth.SetActive(true);
-           
-            
+            lowHealthVillage.SetActive(true);
+            lowHealthShop.SetActive(true);
+            lowHealthCabin.SetActive(true);
+            //lowHealthCave.SetActive(true);
+
+
         }
 
         else if (numLives <= 0)
@@ -246,15 +259,18 @@ public class playerMove : MonoBehaviour
             Health2.SetActive(false);
             Health1.SetActive(false);
             Health0.SetActive(true);
-            lowHealth.SetActive(false);
+            lowHealthVillage.SetActive(false);
+            lowHealthShop.SetActive(false);
+            lowHealthCabin.SetActive(false);
+            //lowHealthCave.SetActive(false);
         }
 
-      
-        
+
+
 
     }
 
-    
+
 
     void FixedUpdate()
     {
@@ -272,7 +288,7 @@ public class playerMove : MonoBehaviour
 
     public void Buylatern()
     {
-        
+
         if (Money >= 10 && HasLatern == false)
         {
             HasLatern = true;
@@ -283,7 +299,7 @@ public class playerMove : MonoBehaviour
 
     public void BuyEnergyBar()
     {
-        
+
         if (Money >= 5 && HasEnergyBar == false)
         {
             HasEnergyBar = true;
@@ -291,12 +307,12 @@ public class playerMove : MonoBehaviour
             Money -= 5;
         }
 
-        
+
     }
 
     public void BuyIcePick()
     {
-        
+
         if (Money >= 25 && HasIcePick == false)
         {
             HasIcePick = true;
@@ -306,7 +322,7 @@ public class playerMove : MonoBehaviour
 
     public void LightTurnOn()
     {
-        
+
         if (HasLatern == true)
         {
 
@@ -316,13 +332,13 @@ public class playerMove : MonoBehaviour
             LightOn = true;
             LaternLightOn = true;
 
-            
+
         }
     }
 
     public void LightTurnOff()
     {
-      
+
         if (HasLatern == true)
         {
 
@@ -333,7 +349,7 @@ public class playerMove : MonoBehaviour
                 LaternUiOff.SetActive(true);
                 LaternLightSource.SetActive(false);
                 LightOn = false;
-                LaternLightOn= false;
+                LaternLightOn = false;
 
             }
         }
@@ -341,14 +357,14 @@ public class playerMove : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D col)
     {
-      
+
     }
 
     public void Endgame()
     {
-       
+
     }
-   
+
 
     public bool LightIsOn
     {
@@ -368,5 +384,6 @@ public class playerMove : MonoBehaviour
 
 
 }
+
 
 
