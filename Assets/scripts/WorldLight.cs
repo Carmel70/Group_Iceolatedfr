@@ -15,11 +15,11 @@ namespace WorldTime
         private Light2D _light;
         private float _startTime;
 
-        private Teleport musicChanges;
+        
         public GameObject teleport;
         private void Awake()
         {
-            musicChanges = teleport.GetComponent<Teleport>();
+            
             _light = GetComponent<Light2D>();
             _startTime = Time.time;
 
@@ -38,19 +38,7 @@ namespace WorldTime
 
             _light.color = gradient.Evaluate(percentage);
 
-            if (percentage <= .25 || percentage >= .75)
-            {
-                
-                musicChanges.NightMusic.SetActive(true);
-                musicChanges.oldMusic.SetActive(false);
-                
-            }
-
-            else if (percentage < .75 && percentage > .25)
-            {
-                musicChanges.NightMusic.SetActive(false);
-                musicChanges.oldMusic.SetActive(true);
-            }
+           
         }
 
         
