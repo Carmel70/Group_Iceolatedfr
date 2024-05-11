@@ -22,16 +22,13 @@ public class CaveFallScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (health.numLives <= 0)
-        {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        }
+       
     }
 
     void OnCollisionEnter2D(Collision2D col)
     {
         player.transform.position = new Vector2(x, y);
-        health.numLives--;
+        //health.numLives--;
         Debug.Log("Lost a life");
  
     }
