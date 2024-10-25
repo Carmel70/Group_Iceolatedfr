@@ -12,12 +12,14 @@ public class NPCfollow : MonoBehaviour
     public float sampleTime;
     public float followSpeed;
     public float removeDistance;
-
+    Animator animator;
+    Vector2 lookDirection = new Vector2(1, 0);
     // Start is called before the first frame update
     void Start()
     {
         sampleTime = Time.time;
         followCharacterPositions.Add(followCharacter.position);
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -29,6 +31,7 @@ public class NPCfollow : MonoBehaviour
             if (Vector2.Distance(transform.position, followCharacter.position) > distanceFromCharacter && Vector2.Distance(followCharacter.position, followCharacterPositions[followCharacterPositions.Count-1]) > allowableSampleDistance)
             {
                 followCharacterPositions.Add(followCharacter.position);
+
             }
         }
 
@@ -42,6 +45,11 @@ public class NPCfollow : MonoBehaviour
                     followCharacterPositions.RemoveAt(0);
                 }
             }
+        }
+
+        if (Vector2.Equals(transform.position, followCharacter.position))
+        {
+
         }
     }
    
